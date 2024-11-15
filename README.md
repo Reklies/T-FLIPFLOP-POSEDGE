@@ -28,7 +28,6 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-/* write all the steps invloved */
 1.Define Module: Define a Verilog module for the T flip-flop with inputs (T, CLK) and outputs (Q, Q_bar).
 
 2.Declare Inputs and Outputs: Declare input and output ports for the module.
@@ -48,14 +47,17 @@ From the above characteristic table, we can directly write the next state equati
 **Developed by:  REKLIES J**
 
 **RegisterNumber: 212223110041**
+
 ![Screenshot (406)](https://github.com/user-attachments/assets/5616b442-d3a8-4baf-b43b-cc446930889d)
 
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![Screenshot (409)](https://github.com/user-attachments/assets/790d696a-30ff-4fd9-af76-42685befca30)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![Screenshot (408)](https://github.com/user-attachments/assets/3601f0d7-c42b-4828-92f0-9f48dbc4392f)
 
 **RESULTS:**
